@@ -1,5 +1,5 @@
 # Hey there! 👋  
-## I'm S Likitha
+## I'm S Sri Sailikitha
 
 💻 Aspiring Software Engineer from India  
 🌱 Currently learning Python, SQL, AWS & Big Data  
